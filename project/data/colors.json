@@ -1,0 +1,10 @@
+[
+  { "id": "red", "name": "Red", "hex": "#FF6B6B", "rgb": [255, 107, 107] },
+  { "id": "blue", "name": "Blue", "hex": "#4ECDC4", "rgb": [78, 205, 196] },
+  { "id": "green", "name": "Green", "hex": "#95E1D3", "rgb": [149, 225, 211] },
+  { "id": "yellow", "name": "Yellow", "hex": "#FFE66D", "rgb": [255, 230, 109] },
+  { "id": "orange", "name": "Orange", "hex": "#F38181", "rgb": [243, 129, 129] },
+  { "id": "purple", "name": "Purple", "hex": "#AA96DA", "rgb": [170, 150, 218] },
+  { "id": "pink", "name": "Pink", "hex": "#FCBAD3", "rgb": [252, 186, 211] },
+  { "id": "brown", "name": "Brown", "hex": "#A8763E", "rgb": [168, 118, 62] }
+]

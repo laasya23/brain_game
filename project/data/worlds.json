@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Visual Confidence Builder",
+    "description": "Build visual recognition skills",
+    "icon": "eye",
+    "color": "#FF6B6B",
+    "isPremium": false,
+    "levelRange": [1, 10]
+  },
+  {
+    "id": 2,
+    "name": "Memory Master",
+    "description": "Train your memory",
+    "icon": "brain",
+    "color": "#4ECDC4",
+    "isPremium": true,
+    "levelRange": [11, 20]
+  },
+  {
+    "id": 3,
+    "name": "Logic Land",
+    "description": "Think logically",
+    "icon": "puzzle",
+    "color": "#95E1D3",
+    "isPremium": true,
+    "levelRange": [21, 30]
+  },
+  {
+    "id": 4,
+    "name": "Animal World",
+    "description": "Learn about animals",
+    "icon": "paw-print",
+    "color": "#F38181",
+    "isPremium": true,
+    "levelRange": [31, 40]
+  },
+  {
+    "id": 5,
+    "name": "Brain Master",
+    "description": "Ultimate challenge",
+    "icon": "trophy",
+    "color": "#AA96DA",
+    "isPremium": true,
+    "levelRange": [41, 50]
+  }
+]

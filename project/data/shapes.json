@@ -1,0 +1,7 @@
+[
+  { "id": "circle", "name": "Circle" },
+  { "id": "square", "name": "Square" },
+  { "id": "triangle", "name": "Triangle" },
+  { "id": "star", "name": "Star" },
+  { "id": "heart", "name": "Heart" }
+]
